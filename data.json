@@ -1,0 +1,5 @@
+[
+  {"id":1,"name":"小米8","oldPrice":"2999","newPrice":"2699","stock":"876","img1":"mi8.png","img2":"MI8face.jpg","img3":"MI8.jpg","img4":"MI8back.jpg"},
+  {"id":2,"name":"vivo nex","oldPrice":"3999","newPrice":"3599","stock":"593","img1":"vivonex.png","img2":"vivoface.png","img3":"nex.png","img4":"vivoback.png"},
+  {"id":3,"name":"小米手环","oldPrice":"199","newPrice":"169","stock":"268","img1":"watch.png"}
+]
